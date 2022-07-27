@@ -1,4 +1,4 @@
 <html><body> 
 
-hi <?php $name ?> you're age yo
+hi <?php $name ?> 1 you're age yo
 </body></html> 
